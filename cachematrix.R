@@ -7,7 +7,7 @@
 ## This function is to make a list of four functions which
 ## are related to inversion of matrix. 
 ##    input : inversible matrix
-##    output : list of four functions 
+##    output : special matrix whch can cache a inversed matrix 
 
 makeCacheMatrix <- function(x = matrix()) {
         inv <- NULL
